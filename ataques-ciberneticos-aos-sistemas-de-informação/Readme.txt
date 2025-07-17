@@ -1,7 +1,7 @@
 Curso de Pós-graduação em Compliance de Cibersegurança
 Disciplina Ataques Cibernéticos aos Sistemas de Informação
 Aula 1 – Técnica Aplicada - Ataque Cibernético ao Sistema de Correio Eletrônico
-Prof. Anderson Oliveira da Silva
+Prof. Anderson Oliveira da Silva (anderson@inf.puc-rio.br)
 
 Coteúdo:
 1. Roteiro da prática
