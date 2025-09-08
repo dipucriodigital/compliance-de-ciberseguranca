@@ -1,0 +1,4 @@
+*MATERIAL COMPLEMENTAR*
+
+CompCiberseg-Referencias-MVP-Sprint-Seguranca_Ofensiva.pdf
+Este arquivo apresenta uma lista de referências úteis para ajudar no trabalho de pesquisa da sprint de segurança ofensiva.
